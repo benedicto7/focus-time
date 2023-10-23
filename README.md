@@ -1,5 +1,6 @@
-# focus-time
-Udemy course
+# Focus Time App
+
+Developed a focus time app through the udemy course that can start focus timer and save to do lists. 
 
 ![WhatsApp 图像2023-10-22于23 19 33_64d8a0a8](https://github.com/benedicto7/focus-time/assets/90052277/8d2011c6-f06f-446b-ae16-88415afadb50)
 
